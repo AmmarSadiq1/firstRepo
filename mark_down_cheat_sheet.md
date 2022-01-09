@@ -164,3 +164,5 @@ _italic_
 [Link](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI)
 
 ![Image](QR_code_Codanics_Python_playlist.png)
+
+**We are in git**
